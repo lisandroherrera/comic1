@@ -1,0 +1,2 @@
+# comic1
+trazabilidad
